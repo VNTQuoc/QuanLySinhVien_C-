@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.exe
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.deps.json
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.runtimeconfig.json
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.dll
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.pdb
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.dll
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\refint\QuanLySinhVien.dll
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.pdb
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.genruntimeconfig.cache
+C:\Users\Admin\source\repos\QuanLySinhVien\QuanLySinhVien\obj\Debug\net6.0\ref\QuanLySinhVien.dll
